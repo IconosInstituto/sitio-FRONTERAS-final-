@@ -1,0 +1,216 @@
+/* RESET */
+*{
+ margin: 0;
+ padding: 0;
+}
+
+header{
+background:#FFD277;
+}
+
+.logotipo{
+padding: 20px;    
+}
+
+.logotipo img{ 
+max-height: 250px;
+}
+
+.menu{
+background: #FFD277;
+}
+
+.menu ul{
+list-style: none;
+}
+
+.menu a{
+display: block;
+color:#000;
+text-decoration:none;
+text-align: center;
+padding: 10px 20px;
+}
+
+.menu a:hover{
+background: #fff;
+}
+
+.menu a .fa{
+color: #000;
+font-size: 1.5em;
+margin-right: 10px;
+}
+
+section.contenido{
+background-image: url(../img/eu-frontera.jpg); 
+background-repeat: none;
+background-size: cover;
+height: 1500px;
+padding-top: 50px;
+}
+
+.container{
+
+}
+
+.slider{
+width: 100%;
+margin: auto;
+overflow: hidden;
+height: 250px;
+}
+
+.slider ul{
+display: flex;
+padding: 0;
+width: 400%;
+
+animation: cambio 20s infinite alternate;  
+animation-timing-function: ease-in;
+}
+
+.slider li{
+
+list-style: none;
+}
+
+.slider img{
+width: 100%;
+}
+
+
+
+.segunda{
+
+  height: 800px;
+  background:#FFD277;
+
+}
+
+.parrafo {
+    margin-top: 10px;
+    margin: 15px;
+    font-size: 1.6em;
+}
+
+.video {
+background: #FFD277;
+height: 700px;
+display: block;    
+
+
+}
+
+.vid {
+margin-top:80px;
+margin-left: px;
+
+
+}
+
+.videoñ {    
+height: 600px;
+position: absolute;
+z-index: 1;
+top: 60%;
+display: block;
+overflow: hidden;
+}
+
+.baner {
+height: 300px;
+}
+
+.shadowbox{
+box-shadow: -15px 15px 75px rgba(55,55,55,6)
+}
+
+
+.parrafo2 {
+    margin: 15px;
+    font-size: 1.6em;
+}
+
+
+.parrafo3 {
+    margin: 25px;
+    font-size: 1.4em;
+}
+
+*{margin:0; padding:0;}
+
+.modulo{
+    background:#FFD277;
+    padding: 10px;
+    border-top: 10px solid #dd8800;
+    margin-top: 50px;
+}
+
+.modulo2{
+    background:#FFD277;
+    padding: 10px;
+    border-top: 10px solid #dd8800;
+    margin-top: 40px;
+    width: 74%;
+}
+
+.info {
+margin: 35px;
+font-size: 1.5em;
+}
+
+.info2 {
+margin: 35px;
+font-size: 1.5em;
+}
+
+.info3{
+margin: 35px;
+font-size: 1.5em;
+}
+
+.videoñ2 {
+height: 450px;
+padding-top:0px;
+height: 690px;
+z-index: 1;
+top: 60%;
+display: block;
+overflow: hidden;
+
+}
+
+.parrafo4 {
+    margin: 25px;
+    font-size: 1.4em;
+}
+
+.contenedor1{
+height: 500px;
+background: #FFD277;
+margin-top: -10px;
+
+}
+
+.contenedor2{
+padding: 10px 0;
+margin-top: 20px;
+margin-top: 20px;
+}
+
+.contenedor2 .cuadro{
+background: #FFD277;
+color: #000;
+height: 260px;
+text-align: center;
+}
+
+
+.c {
+    
+}
+
+.video2 {
+    
+}
